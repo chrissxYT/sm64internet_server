@@ -1,0 +1,3 @@
+all {
+        %CPPC sm64internet_server src/*.cpp
+}
